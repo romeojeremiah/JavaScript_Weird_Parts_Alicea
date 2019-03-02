@@ -1,0 +1,2 @@
+# JavaScript_Weird_Parts_Alicea
+Course Completion
